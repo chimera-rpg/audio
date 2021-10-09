@@ -1,4 +1,5 @@
 thump:
   SoundSets:
     default:
-      - Text: thump
+      - File: thump.flac
+        Text: thump
