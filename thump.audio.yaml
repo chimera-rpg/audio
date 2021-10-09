@@ -1,0 +1,4 @@
+thump:
+  SoundSets:
+    default:
+      - Text: thump

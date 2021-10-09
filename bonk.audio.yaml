@@ -1,0 +1,5 @@
+bonk:
+  SoundSets:
+    default:
+      - File: bonk.flac
+        Text: bonk
