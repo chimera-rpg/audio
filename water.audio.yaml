@@ -1,0 +1,11 @@
+water:
+  SoundSets:
+    sploosh:
+      - File: splash-v1.ogg
+        Text: sploosh
+    leave:
+      - File: splash-v1.ogg
+        Text: splish
+    enter:
+      - File: splash-v2.ogg
+        Text: splash
